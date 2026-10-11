@@ -1,0 +1,19 @@
+{
+  "name": "miiverse",
+  "version": "1.0.0",
+  "description": "LeafVerse – an open source Miiverse replacement",
+  "private": true,
+  "scripts": {
+    "start": "npx serve . -p 3000",
+    "dev": "npx serve . -p 3000",
+    "serve": "npx serve ."
+  },
+  "keywords": [
+    "miiverse",
+    "leafverse",
+    "static"
+  ],
+  "author": "rrealbaconepro-byte",
+  "license": "GPL-3.0",
+  "homepage": "https://rrealbaconepro-byte.github.io/Miiverse"
+}
